@@ -67,7 +67,7 @@ Este é um aplicativo mobile desenvolvido em React Native para gerenciar despesa
 - O total de gastos é exibido automaticamente, calculado com base nas despesas registradas.
 
 ## Autor
-[Seu Nome] - Desenvolvido para atividade de desenvolvimento mobile.
+Sayonara Arcanjo - Desenvolvido para atividade de desenvolvimento mobile.
 
 ## Licença
 MIT - Livre para uso e modificação.
