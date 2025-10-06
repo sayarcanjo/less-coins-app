@@ -22,11 +22,11 @@ Este é um aplicativo mobile desenvolvido em React Native para gerenciar despesa
 ## Capturas de Tela
 
 - **Tela de Login**: Interface para autenticação do usuário.
-  <image-card alt="Tela de Login" src="screenshots/login-screen.png" ></image-card>
+  ![Tela de Login](https://raw.githubusercontent.com/sayarcanjo/less-coins-app/main/screenshots/login-screen.png)
 - **Tela Principal**: Lista de despesas com opções de adicionar, editar e deletar.
-  <image-card alt="Tela Principal" src="screenshots/main-screen.png" ></image-card>
+  ![Tela Principal](https://raw.githubusercontent.com/sayarcanjo/less-coins-app/main/screenshots/main-screen.png)
 - **Overlay de Edição**: Interface para editar uma despesa existente.
-  <image-card alt="Overlay de Edição" src="screenshots/edit-screen.png" ></image-card>
+  ![Overlay de Edição](https://raw.githubusercontent.com/sayarcanjo/less-coins-app/main/screenshots/edit-screen.png)
 
 ## Instalação e Execução
 
@@ -60,6 +60,7 @@ Este é um aplicativo mobile desenvolvido em React Native para gerenciar despesa
 - `components/MainScreen.js`: Tela principal com lista de despesas, operações CRUD e totalizador de gastos.
 - `Services/supabaseClient.js`: Configuração do cliente Supabase para autenticação e acesso ao banco de dados.
 - `assets/`: Arquivos de imagem, como `minha-logo.png`.
+- `screenshots/`: Capturas de tela do aplicativo.
 
 ## Como Usar
 
@@ -69,7 +70,7 @@ Este é um aplicativo mobile desenvolvido em React Native para gerenciar despesa
 - O total de gastos é exibido automaticamente, calculado com base nas despesas registradas.
 
 ## Autor
-Sayonara Arcanjo - Desenvolvido para atividade de desenvolvimento mobile.
+[Seu Nome] - Desenvolvido para atividade de desenvolvimento mobile.
 
 ## Licença
 MIT - Livre para uso e modificação.
