@@ -21,12 +21,9 @@ Este é um aplicativo mobile desenvolvido em React Native para gerenciar despesa
 
 ## Capturas de Tela
 
-- **Tela de Login**: Interface para autenticação do usuário.
-  ![Tela de Login](https://raw.githubusercontent.com/sayarcanjo/less-coins-app/main/screenshots/login-screen.png)
-- **Tela Principal**: Lista de despesas com opções de adicionar, editar e deletar.
-  ![Tela Principal](https://raw.githubusercontent.com/sayarcanjo/less-coins-app/main/screenshots/main-screen.png)
-- **Overlay de Edição**: Interface para editar uma despesa existente.
-  ![Overlay de Edição](https://raw.githubusercontent.com/sayarcanjo/less-coins-app/main/screenshots/edit-screen.png)
+| Tela de Login | Tela Principal | Overlay de Edição |
+|---------------|----------------|-------------------|
+| **Interface para autenticação do usuário.**<br>![Tela de Login](https://raw.githubusercontent.com/sayarcanjo/less-coins-app/main/screenshots/login-screen.png) | **Lista de despesas com opções de adicionar, editar e deletar.**<br>![Tela Principal](https://raw.githubusercontent.com/sayarcanjo/less-coins-app/main/screenshots/main-screen.png) | **Interface para editar uma despesa existente.**<br>![Overlay de Edição](https://raw.githubusercontent.com/sayarcanjo/less-coins-app/main/screenshots/edit-screen.png) |
 
 ## Instalação e Execução
 
