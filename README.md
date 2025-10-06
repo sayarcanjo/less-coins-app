@@ -19,6 +19,15 @@ Este é um aplicativo mobile desenvolvido em React Native para gerenciar despesa
 - Supabase (autenticação e banco de dados)
 - React Native Vector Icons
 
+## Capturas de Tela
+
+- **Tela de Login**: Interface para autenticação do usuário.
+  <image-card alt="Tela de Login" src="screenshots/login-screen.png" ></image-card>
+- **Tela Principal**: Lista de despesas com opções de adicionar, editar e deletar.
+  <image-card alt="Tela Principal" src="screenshots/main-screen.png" ></image-card>
+- **Overlay de Edição**: Interface para editar uma despesa existente.
+  <image-card alt="Overlay de Edição" src="screenshots/edit-screen.png" ></image-card>
+
 ## Instalação e Execução
 
 1. Clone o repositório:
